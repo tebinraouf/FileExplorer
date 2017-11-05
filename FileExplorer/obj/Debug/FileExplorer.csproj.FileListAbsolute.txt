@@ -1,0 +1,46 @@
+c:\users\t_raouf\documents\visual studio 2015\Projects\FileExplorer\FileExplorer\bin\Debug\FileExplorer.exe.config
+c:\users\t_raouf\documents\visual studio 2015\Projects\FileExplorer\FileExplorer\bin\Debug\FileExplorer.exe
+c:\users\t_raouf\documents\visual studio 2015\Projects\FileExplorer\FileExplorer\bin\Debug\FileExplorer.pdb
+c:\users\t_raouf\documents\visual studio 2015\Projects\FileExplorer\FileExplorer\obj\Debug\MainWindow.g.cs
+c:\users\t_raouf\documents\visual studio 2015\Projects\FileExplorer\FileExplorer\obj\Debug\App.g.cs
+c:\users\t_raouf\documents\visual studio 2015\Projects\FileExplorer\FileExplorer\obj\Debug\FileExplorer_MarkupCompile.cache
+c:\users\t_raouf\documents\visual studio 2015\Projects\FileExplorer\FileExplorer\obj\Debug\FileExplorer_MarkupCompile.lref
+c:\users\t_raouf\documents\visual studio 2015\Projects\FileExplorer\FileExplorer\obj\Debug\MainWindow.baml
+c:\users\t_raouf\documents\visual studio 2015\Projects\FileExplorer\FileExplorer\obj\Debug\FileExplorer.g.resources
+c:\users\t_raouf\documents\visual studio 2015\Projects\FileExplorer\FileExplorer\obj\Debug\FileExplorer.Properties.Resources.resources
+c:\users\t_raouf\documents\visual studio 2015\Projects\FileExplorer\FileExplorer\obj\Debug\FileExplorer.csproj.GenerateResource.Cache
+c:\users\t_raouf\documents\visual studio 2015\Projects\FileExplorer\FileExplorer\obj\Debug\FileExplorer.exe
+c:\users\t_raouf\documents\visual studio 2015\Projects\FileExplorer\FileExplorer\obj\Debug\FileExplorer.pdb
+C:\Users\T_Raouf\Documents\Visual Studio 2015\Projects\FileExplorer\FileExplorer\obj\Debug\App.baml
+C:\Users\T_Raouf\Documents\Visual Studio 2015\Projects\FileExplorer\FileExplorer\obj\Debug\FileExplorer.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\DCP\FileExplorer\FileExplorer\bin\Debug\FileExplorer.exe.config
+\\vmware-host\Shared Folders\Desktop\DCP\FileExplorer\FileExplorer\bin\Debug\FileExplorer.exe
+\\vmware-host\Shared Folders\Desktop\DCP\FileExplorer\FileExplorer\bin\Debug\FileExplorer.pdb
+\\vmware-host\Shared Folders\Desktop\DCP\FileExplorer\FileExplorer\obj\Debug\FileExplorer.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\DCP\FileExplorer\FileExplorer\obj\Debug\MainWindow.g.cs
+\\vmware-host\Shared Folders\Desktop\DCP\FileExplorer\FileExplorer\obj\Debug\App.g.cs
+\\vmware-host\Shared Folders\Desktop\DCP\FileExplorer\FileExplorer\obj\Debug\FileExplorer_MarkupCompile.cache
+\\vmware-host\Shared Folders\Desktop\DCP\FileExplorer\FileExplorer\obj\Debug\FileExplorer_MarkupCompile.lref
+\\vmware-host\Shared Folders\Desktop\DCP\FileExplorer\FileExplorer\obj\Debug\App.baml
+\\vmware-host\Shared Folders\Desktop\DCP\FileExplorer\FileExplorer\obj\Debug\MainWindow.baml
+\\vmware-host\Shared Folders\Desktop\DCP\FileExplorer\FileExplorer\obj\Debug\FileExplorer.g.resources
+\\vmware-host\Shared Folders\Desktop\DCP\FileExplorer\FileExplorer\obj\Debug\FileExplorer.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop\DCP\FileExplorer\FileExplorer\obj\Debug\FileExplorer.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Desktop\DCP\FileExplorer\FileExplorer\obj\Debug\FileExplorer.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\DCP\FileExplorer\FileExplorer\obj\Debug\FileExplorer.exe
+\\vmware-host\Shared Folders\Desktop\DCP\FileExplorer\FileExplorer\obj\Debug\FileExplorer.pdb
+C:\Users\Tebin\Desktop\FileExplorer\FileExplorer\bin\Debug\FileExplorer.exe.config
+C:\Users\Tebin\Desktop\FileExplorer\FileExplorer\obj\Debug\FileExplorer.exe
+C:\Users\Tebin\Desktop\FileExplorer\FileExplorer\obj\Debug\FileExplorer.pdb
+C:\Users\Tebin\Desktop\FileExplorer\FileExplorer\bin\Debug\FileExplorer.exe
+C:\Users\Tebin\Desktop\FileExplorer\FileExplorer\bin\Debug\FileExplorer.pdb
+C:\Users\Tebin\Desktop\FileExplorer\FileExplorer\obj\Debug\FileExplorer.csprojResolveAssemblyReference.cache
+C:\Users\Tebin\Desktop\FileExplorer\FileExplorer\obj\Debug\MainWindow.g.cs
+C:\Users\Tebin\Desktop\FileExplorer\FileExplorer\obj\Debug\App.g.cs
+C:\Users\Tebin\Desktop\FileExplorer\FileExplorer\obj\Debug\FileExplorer_MarkupCompile.cache
+C:\Users\Tebin\Desktop\FileExplorer\FileExplorer\obj\Debug\FileExplorer_MarkupCompile.lref
+C:\Users\Tebin\Desktop\FileExplorer\FileExplorer\obj\Debug\App.baml
+C:\Users\Tebin\Desktop\FileExplorer\FileExplorer\obj\Debug\MainWindow.baml
+C:\Users\Tebin\Desktop\FileExplorer\FileExplorer\obj\Debug\FileExplorer.g.resources
+C:\Users\Tebin\Desktop\FileExplorer\FileExplorer\obj\Debug\FileExplorer.Properties.Resources.resources
+C:\Users\Tebin\Desktop\FileExplorer\FileExplorer\obj\Debug\FileExplorer.csproj.GenerateResource.Cache
